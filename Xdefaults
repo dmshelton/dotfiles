@@ -1,0 +1,70 @@
+!Xft settings:
+! most people should have 96 here
+Xft*dpi:                96
+Xft*hinting:            true
+! hintstyle 3 for flat-panel displays 
+Xft*hintstyle:          2
+Xft*antialias:          true
+! uncomment/adjust for flat-panel display
+Xft*rgba:              rgb
+
+! URxvt settings
+URxvt*font:  x:-*-terminus-*-*-*-*-12-*-*-*-*-*-*-*
+!URxvt*font: xft:Bitstream Vera Sans Mono:pixelsize=9
+!URxvt*font: xft:Bitstream Vera Sans Mono:size=9
+!URxvt*font: x:-*-fixed-medium-r-normal-*-14-*-*-*-*-*-*-*
+URxvt*inheritPixmap: true
+URxvt*transparent: true
+URxvt*tintColor: white
+URxvt*shading: 20
+URxvt*loginShell: true
+URxvt*scrollstyle: plain
+URxvt*scrollBar: false
+URxvt*scrollBar_right: true
+URxvt*termName: rxvt
+URxvt*saveLines: 5000
+URxvt*background: #000010
+URxvt*foreground: #ffffff
+URxvt*cursorColor: cyan
+URxvt*cursorColor2: grey25
+URxvt*urlLauncher: /usr/bin/opera
+URxvt*scrollTtyOutput: false
+xvt*color0:           #000000 
+URxvt*color1:           #805A5A 
+URxvt*color2:           #598059 
+URxvt*color3:           #807959 
+URxvt*color4:           #596C80 
+URxvt*color5:           #80597F 
+URxvt*color6:           #598080 
+URxvt*color7:           #AAAAAA 
+URxvt*color8:           #555555 
+URxvt*color9:           #CC8F8F 
+URxvt*color10:          #8ECC8E 
+URxvt*color11:          #CCC18E 
+URxvt*color12:          #8EACCC 
+URxvt*color13:          #CC8ECA 
+URxvt*color14:          #8ECCCC 
+URxvt*color15:          #CCCCCC
+! XTerm settings:
+XTerm*faceName: Bitstream Vera Sans Mono
+XTerm*faceSize: 9
+!XTermfont: xft:Bitstream Vera Sans Mono:pixelsize=14
+XTerm*background: #000010
+XTerm*foreground: #ffffff
+XTerm*cursorColor: magenta
+XTerm*color0: #000000
+XTerm*color1: #9e1828
+XTerm*color2: #aece92
+XTerm*color3: #968a38
+XTerm*color4: #414171
+XTerm*color5: #963c59
+XTerm*color6: #418179
+XTerm*color7: #bebebe
+XTerm*color8: #666666
+XTerm*color9: #cf6171
+XTerm*color10: #c5f779
+XTerm*color11: #fff796
+XTerm*color12: #4186be
+XTerm*color13: #cf9ebe
+XTerm*color14: #71bebe
+XTerm*color15: #ffffff
